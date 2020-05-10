@@ -7,6 +7,8 @@ I gave a clear explanation in my report, please pay attantion.
 
 !!! That zip file that is on Branch: master in order to download the main one that I did on my computer. Just uploaded because when I sent to the git my Internet broke. If suddenly something goes wrong, download the finished zip that I uploaded.
 
+Some details in Wiki
+
 # About TourGuideApp
 
 ![2e61473b-9eea-42d9-b24b-6715654c0209](https://user-images.githubusercontent.com/49916341/81498366-5be3a380-92e6-11ea-8e91-0c7a57ee7dfd.jpg)
