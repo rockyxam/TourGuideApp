@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TourGuide</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="categoty_city">AboutCity</string>
+    <string name="category_places">Places</string>
+    <string name="category_hotels">Hotels</string>
+</resources>
