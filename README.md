@@ -9,6 +9,8 @@ I gave a clear explanation in my report, please pay attantion.
 
 Some details in Wiki
 
+# Team: Ravshan Khamidov and Daniiar Arkabaev
+
 # About TourGuideApp
 
 ![2e61473b-9eea-42d9-b24b-6715654c0209](https://user-images.githubusercontent.com/49916341/81498366-5be3a380-92e6-11ea-8e91-0c7a57ee7dfd.jpg)
